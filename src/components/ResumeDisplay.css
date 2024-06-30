@@ -1,0 +1,23 @@
+.resume-container {
+    margin: 20px auto;
+    padding: 20px;
+    width: 400px;
+    border: 2px solid #ffabbb; /* Light pastel pink border */
+    background-color: #f8e1f4; /* Light pastel lavender background */
+    border-radius: 10px;
+    text-align: left;
+  }
+  
+  .resume-container h2 {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #ff85a1; /* Pastel magenta */
+    border-bottom: 2px dashed #ffabbb; /* Light pastel pink border */
+    padding-bottom: 10px;
+  }
+  
+  .resume-container p {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #333;
+    line-height: 1.6;
+  }
+  

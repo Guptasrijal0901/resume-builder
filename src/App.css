@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  background-color: #ffd1dc; /* Pastel pink background */
+  height: 100vh; /* Full height */
+  padding: 20px; /* Add some padding */
+  box-sizing: border-box; /* Ensure padding doesn't affect overall width/height */
+}
+
+h1 {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: #ff85a1; /* Pastel magenta */
+}

@@ -1,0 +1,44 @@
+.form-container {
+    margin: 20px auto;
+    padding: 20px;
+    width: 300px;
+    border: 2px dashed #ffabbb; /* Light pastel pink border */
+    background-color: #f8e1f4; /* Light pastel lavender background */
+    border-radius: 10px;
+    text-align: left;
+  }
+  
+  .form-container h2 {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #ff85a1; /* Pastel magenta */
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #333;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #faf0e6; /* Pastel beige background */
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #ffabbb; /* Light pastel pink */
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+  
